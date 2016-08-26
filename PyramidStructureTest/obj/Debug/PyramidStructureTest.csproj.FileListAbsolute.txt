@@ -1,0 +1,6 @@
+c:\users\bkatchmar\documents\visual studio 2015\Projects\PyramidStructureTest\PyramidStructureTest\bin\Debug\PyramidStructureTest.exe.config
+c:\users\bkatchmar\documents\visual studio 2015\Projects\PyramidStructureTest\PyramidStructureTest\bin\Debug\PyramidStructureTest.exe
+c:\users\bkatchmar\documents\visual studio 2015\Projects\PyramidStructureTest\PyramidStructureTest\bin\Debug\PyramidStructureTest.pdb
+c:\users\bkatchmar\documents\visual studio 2015\Projects\PyramidStructureTest\PyramidStructureTest\obj\Debug\PyramidStructureTest.csprojResolveAssemblyReference.cache
+c:\users\bkatchmar\documents\visual studio 2015\Projects\PyramidStructureTest\PyramidStructureTest\obj\Debug\PyramidStructureTest.exe
+c:\users\bkatchmar\documents\visual studio 2015\Projects\PyramidStructureTest\PyramidStructureTest\obj\Debug\PyramidStructureTest.pdb
